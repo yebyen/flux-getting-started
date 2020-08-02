@@ -1,7 +1,7 @@
 replicaCount: 1
 
 image:
-  repository: okteto/hello-world
+  repository: registry.cloud.okteto.net/yebyen/hello-world
   tag: golang
 
 service:
